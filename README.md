@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vue-cli
 
 ## Project setup
@@ -42,4 +42,6 @@ Visual code studio 확장 프로그램
 - Prettier
 - Auto Close Tag
 - Atom Keymap
+
+branch updated
 
